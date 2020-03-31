@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="847" started-at="2020-03-31T13:27:32Z" finished-at="2020-03-31T13:27:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="847" started-at="2020-03-31T13:27:32Z" finished-at="2020-03-31T13:27:32Z">
+      <class name="org.company.CompanyInfo">
+        <test-method status="PASS" signature="companyId()[pri:0, instance:org.company.CompanyInfo@e9a829]" name="companyId" duration-ms="95" started-at="2020-03-31T13:27:32Z" finished-at="2020-03-31T13:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyId -->
+        <test-method status="PASS" signature="companyName()[pri:1, instance:org.company.CompanyInfo@e9a829]" name="companyName" duration-ms="2" started-at="2020-03-31T13:27:32Z" finished-at="2020-03-31T13:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyName -->
+        <test-method status="PASS" signature="companyAddress()[pri:2, instance:org.company.CompanyInfo@e9a829]" name="companyAddress" duration-ms="1" started-at="2020-03-31T13:27:32Z" finished-at="2020-03-31T13:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyAddress -->
+      </class> <!-- org.company.CompanyInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
